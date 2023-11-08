@@ -2,7 +2,7 @@ title: pen Architecture Docs
 
 org_name: Service
 
-baseurl: /Geoff1900.github.io-handbook
+#baseurl: /Geoff1900.github.io-handbook
 
 plugins:
   - jekyll-redirect-from
