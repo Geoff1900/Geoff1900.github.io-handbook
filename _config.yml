@@ -2,7 +2,7 @@ title: NHS Wales Open Architecture Docs
 
 org_name: NHS Wales Informatics Service
 
-baseurl: /open-architecture
+baseurl: /
 
 plugins:
   - jekyll-redirect-from
