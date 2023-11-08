@@ -2,7 +2,7 @@ title: NHS Wales Open Architecture Docs
 
 org_name: NHS Wales Informatics Service
 
-baseurl: /open-architecture
+baseurl: /Geoff1900.github.io-handbook
 
 plugins:
   - jekyll-redirect-from
