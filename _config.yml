@@ -2,7 +2,7 @@ title: Software engineering handbook - prototype
 
 org_name: Digital Health and Care Wales
 
-baseurl: /
+#baseurl: /
 
 plugins:
   - jekyll-redirect-from
