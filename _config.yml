@@ -2,7 +2,7 @@ title: Open Architecture Docs
 
 org_name: Service
 
-#baseurl: /Geoff1900.github.io-handbook
+baseurl: /Geoff1900.github.io-handbook/docs
 
 plugins:
   - jekyll-redirect-from
