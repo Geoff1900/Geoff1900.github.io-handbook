@@ -7,7 +7,7 @@ org_name: Digital Health and Care Wales
 plugins:
   - jekyll-redirect-from
 
-github_editme_path: /nwisbeta/open-architecture/edit/master/
+github_editme_path: /Geoff1900/Geoff1900.github.io-handbook/edit/master/
 
 permalink: pretty
 
