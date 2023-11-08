@@ -1,0 +1,19 @@
+title: NHS Wales Open Architecture Docs
+
+org_name: NHS Wales Informatics Service
+
+baseurl: /open-architecture
+
+plugins:
+  - jekyll-redirect-from
+
+github_editme_path: /nwisbeta/open-architecture/edit/master/
+
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
