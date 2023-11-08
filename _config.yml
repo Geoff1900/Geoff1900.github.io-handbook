@@ -1,8 +1,8 @@
-title: Open Architecture Docs
+title: Software engineering handbook - prototype
 
-org_name: Service
+org_name: Digital Health and Care Wales
 
-baseurl: /Geoff1900.github.io-handbook/docs
+baseurl: /Geoff1900.github.io-handbook/
 
 plugins:
   - jekyll-redirect-from
