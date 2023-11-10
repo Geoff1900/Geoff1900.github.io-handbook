@@ -6,6 +6,10 @@
   pages:
     - title: Cross-functional teams
     - title: Scrum
+      pages:
+        - title: Scrum events
+        - title: User stories
+        - title: Track your work
 - title: Integration Guides
   pages:
     - title: WCP Stapling
