@@ -1,12 +1,15 @@
-- title: getting started
+- title: Getting started
   pages:
-    - title: activate your subscriptions
-    - title: Key Services
-    - title: Test Environments
-- title: Data Flows
+    - title: Activate your subscriptions
+    - title: Use our preferred toolset
+- title: Plan your work
   pages:
-    - title: Patient Demographics
-    - title: PROMs
+    - title: Cross-functional teams
+    - title: Scrum
+    pages:
+      - title: scrum events
+      - title: user stories
+      - title: track your work
 - title: Integration Guides
   pages:
     - title: WCP Stapling
