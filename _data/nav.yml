@@ -11,8 +11,7 @@
         - title: Scrum events
         - title: User stories
         - title: Track your work
-- title: Integration Guides
+- title: Coding standards
   pages:
-    - title: WCP Stapling
-      pages:
-        - title: Test
+    - title: How to organise your software solution
+
