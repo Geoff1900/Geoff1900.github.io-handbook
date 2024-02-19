@@ -1,1 +1,1 @@
-# Hello world
+# Activate your subscriptions
