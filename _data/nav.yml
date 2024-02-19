@@ -1,4 +1,3 @@
-- title: Engineering principles
 - title: Getting started
   pages:
     - title: Activate your subscriptions
@@ -10,12 +9,4 @@
     - title: Scrum events
     - title: User stories
     - title: Track your work
-- title: Coding standards
-  pages:
-    - title: How to organise your software solution
-    - title: Clean code
-    - title: Naming
-    - title: Layout
-- title: Source control 
-- title: Source control 
 
