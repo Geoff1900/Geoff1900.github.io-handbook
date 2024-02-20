@@ -1,6 +1,6 @@
 ---
 title: conventions
-description: how we describe these standards 
+description: How we describe these standards 
 group: getting-started
 
 ---
