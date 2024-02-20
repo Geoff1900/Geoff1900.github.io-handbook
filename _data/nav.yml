@@ -1,11 +1,14 @@
 - title: Getting started
   pages:
-    - title: Activate your subscriptions
+    - title: Acbout these standards
     - title: Use our preferred tools
 - title: Coding standards
   pages:
     - title: How to organise your code
 - title: Plan your work
   pages:
-    - title: How to write a Solutions Architectures 
-
+    - title: How to write a solution architecture
+    - title: How to write a great user story
+- title: APIs
+  pages:
+    - title: How to perfom a GET operation on a collection
