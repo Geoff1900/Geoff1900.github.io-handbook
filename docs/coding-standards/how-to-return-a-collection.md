@@ -1,7 +1,7 @@
 ---
-title: how to retrieve a collection
+title: how to return a collection
 description: standards for manipulating resource collections
-group: apis
+group: coding-standards
 redirect_from: "/"
 ---
 
