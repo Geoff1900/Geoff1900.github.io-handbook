@@ -1,5 +1,5 @@
 ---
-title: conventions
+title: Conventions
 description: How we describe these standards 
 group: getting-started
 
