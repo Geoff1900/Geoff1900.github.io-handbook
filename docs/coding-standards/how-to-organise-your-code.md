@@ -1,5 +1,5 @@
 ---
-title: How to organise your code
+title: how to organise your code
 description: How to organise your software solution
 group: coding-standards
 ---
