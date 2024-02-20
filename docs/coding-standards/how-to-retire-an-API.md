@@ -31,3 +31,4 @@ sequenceDiagram
 
     Developer->>API: Retire API on 01/03/2022
     API-->>Developer: API retired
+    ```
