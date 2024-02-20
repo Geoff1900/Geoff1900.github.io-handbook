@@ -1,6 +1,6 @@
 ---
-title: how to return a collection
-description: standards for manipulating resource collections
+title: How to return a collection
+description: Standards for manipulating resource collections
 group: coding-standards
 redirect_from: "/"
 ---
