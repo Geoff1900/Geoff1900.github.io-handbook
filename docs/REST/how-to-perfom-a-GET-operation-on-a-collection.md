@@ -1,6 +1,6 @@
 ---
 title: How to perform a GET on a collection
-description: End-to-End Integration Testing and User Acceptance Testing
+description: Standards for manipulating resource collections
 group: REST
 redirect_from: "/"
 ---
