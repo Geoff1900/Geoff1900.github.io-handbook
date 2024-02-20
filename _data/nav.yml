@@ -2,11 +2,11 @@
   pages:
     - title: Activate your subscriptions
     - title: Key services
-- title: Plan your work
+- title: Coding standards
   pages:
-    - title: Cross-functional teams
-    - title: Scrum
-    - title: Scrum events
-    - title: User stories
-    - title: Track your work
+    - title: How to organise your software solution
+    - title: How to retire an API
+  - title: Plan your work
+  pages:
+    - title: How to write a Solutions Architecture Document
 
