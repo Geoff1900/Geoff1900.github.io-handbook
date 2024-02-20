@@ -1,5 +1,5 @@
 ---
-title: how to perform a GET on a collection
+title: how to retrieve a collection
 description: standards for manipulating resource collections
 group: apis
 redirect_from: "/"
@@ -23,4 +23,4 @@ Content-Type: application/json; charset=utf-8
 }
 ```
 
-#TODO
+#TODO.
