@@ -9,6 +9,6 @@
   pages:
     - title: How to write a solution architecture
     - title: How to write a great user story
-- title: REST
+- title: APIs
   pages:
     - title: How to perfom a GET operation on a collection
