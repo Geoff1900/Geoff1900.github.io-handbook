@@ -1,5 +1,5 @@
 ---
-title: Key Services for Integration
+title: Preferred tools
 group: getting-started
 ---
 ## Overview
