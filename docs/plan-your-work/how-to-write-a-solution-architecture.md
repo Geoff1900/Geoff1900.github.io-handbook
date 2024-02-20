@@ -1,6 +1,6 @@
 ---
-title: how to write a Solutions Architecture 
-description: advice onhow to prepare a solutons architecture in a solutions architecture document
+title: How to write a Solutions Architecture 
+description: Advice on how to prepare a solutions architecture document
 group: plan-your-work
 ---
 
