@@ -1,11 +1,11 @@
-- title: getting started
+- title: Getting started
   pages:
-    - title: conventions
-- title: coding standards
+    - title: Conventions
+- title: Coding standards
   pages:
-    - title: how to return a collection
-    - title: how to organise your code
-- title: plan your work
+    - title: How to return a collection
+    - title: How to organise your code
+- title: Plan your work
   pages:
-    - title: how to write a solution architecture
-    - title: how to write a great user story
+    - title: How to write a solution architecture
+    - title: How to write a great user story
