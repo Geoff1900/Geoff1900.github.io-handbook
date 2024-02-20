@@ -1,7 +1,7 @@
 ---
-title: How to perform a GET on a collection
-description: Standards for manipulating resource collections
-group: REST
+title: how to perform a GET on a collection
+description: standards for manipulating resource collections
+group: APIS
 redirect_from: "/"
 ---
 

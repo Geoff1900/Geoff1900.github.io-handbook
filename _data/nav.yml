@@ -1,14 +1,14 @@
-- title: Getting started
+- title: getting started
   pages:
-    - title: About these standards
-    - title: Use our preferred tools
-- title: Coding standards
+    - title: about these standards
+    - title: use our preferred tools
+- title: coding standards
   pages:
-    - title: How to organise your code
-- title: Plan your work
+    - title: how to organise your code
+- title: plan your work
   pages:
-    - title: How to write a solution architecture
-    - title: How to write a great user story
+    - title: how to write a solution architecture
+    - title: how to write a great user story
 - title: APIs
   pages:
-    - title: How to perfom a GET operation on a collection
+    - title: how to perfom a GET operation on a collection
