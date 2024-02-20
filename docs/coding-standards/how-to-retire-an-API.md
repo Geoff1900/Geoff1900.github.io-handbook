@@ -1,5 +1,5 @@
 ---
-title: API
+title: api
 description: End-to-End Integration Testing and User Acceptance Testing
 group: coding-standards
 redirect_from: "/"
