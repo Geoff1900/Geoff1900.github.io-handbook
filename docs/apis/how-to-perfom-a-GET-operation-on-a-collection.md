@@ -5,7 +5,7 @@ group: apis
 redirect_from: "/"
 ---
 
-> The response SHOULD enclose the primary resource within a **data** object. Use the singular form of the resource name as the outer property name. 
+> The response **SHOULD** enclose the primary resource within a *data* object. Use the singular form of the resource name as the outer property name. 
 
 ```
 GET /{base}/patients/9991234566

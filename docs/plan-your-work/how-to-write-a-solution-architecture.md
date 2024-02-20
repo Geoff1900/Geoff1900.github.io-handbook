@@ -1,6 +1,6 @@
 ---
-title: SAD
-description: End-to-End Integration Testing and User Acceptance Testing
+title: how to write a Solutions Architecture 
+description: advice onhow to prepare a solutons architecture in a solutions architecture document
 group: plan-your-work
 ---
 
